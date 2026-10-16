@@ -38,9 +38,10 @@ Set `CONTAINER_ENGINE=podman` to use a compatible Podman installation.
 
 ## Prototype limits
 
-- The system prompt bans general-purpose search engines (including DuckDuckGo) and
-  search APIs, and instructs the model to follow `robots.txt`. This first version records
-  commands for later review but does not enforce either rule itself.
+- The system prompt allows public search-engine webpages (including DuckDuckGo) and
+  source-site search pages, but bans search APIs and instructs the model to follow
+  `robots.txt`. This first version records commands for later review but does not enforce
+  those rules itself.
 - Commands have a 30-second default timeout, tool calls are capped at 15 per task,
   and model-visible command output is clipped at 16,000 characters.
 - The container can access the public internet. This prototype does not yet filter
