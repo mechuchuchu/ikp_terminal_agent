@@ -1,0 +1,25 @@
+{
+  "seed": 20261016,
+  "tasks": [
+    {
+      "task_id": "task-01",
+      "question": "In what year was the Edict of Nantes revoked?"
+    },
+    {
+      "task_id": "task-02",
+      "question": "In what year was the Japanese scientific journal Etizenia first published?"
+    },
+    {
+      "task_id": "task-03",
+      "question": "In computer science, what is the research subfield of Aravindh Raman?"
+    },
+    {
+      "task_id": "task-04",
+      "question": "Into what body of water does the Andijan Say River in Uzbekistan flow?"
+    },
+    {
+      "task_id": "task-05",
+      "question": "Who founded the 1960 Italy company MER MEC?"
+    }
+  ]
+}

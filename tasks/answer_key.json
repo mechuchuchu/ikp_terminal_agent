@@ -1,0 +1,32 @@
+{
+  "task-01": {
+    "probe_id": "IKP_T2_0273",
+    "tier": "T2",
+    "domain": "Minor Historical Events",
+    "gold_answer": "1685"
+  },
+  "task-02": {
+    "probe_id": "IKP_T6_1155",
+    "tier": "T6",
+    "domain": "founding_year_journal",
+    "gold_answer": "1963"
+  },
+  "task-03": {
+    "probe_id": "IKP_T6_1054",
+    "tier": "T6",
+    "domain": "computer_science",
+    "gold_answer": "computer networking"
+  },
+  "task-04": {
+    "probe_id": "IKP_T7_1500",
+    "tier": "T7",
+    "domain": "r6_river_mouth",
+    "gold_answer": "Great Farg'ona Canal"
+  },
+  "task-05": {
+    "probe_id": "IKP_T7_1535",
+    "tier": "T7",
+    "domain": "r6_founder",
+    "gold_answer": "Vito Pertosa"
+  }
+}
